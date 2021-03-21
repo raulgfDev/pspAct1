@@ -11,7 +11,8 @@ class Ejercicio1 extends Thread{
     
     public static void main(String[] args) {
         
-        Ejercicio1.ejecutar();        
+        Ejercicio1.ejecutar();
+        System.out.println("añadido para git");
     }
     
     private int entrada;

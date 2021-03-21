@@ -13,6 +13,7 @@ public class Ejercicio2 {
     public static void main(String[] args) {
         
         Ejercicio2.ejecutar();
+        System.out.println("prueba");
         
     }
     
